@@ -5,7 +5,7 @@
     <groupId>org.jvnet.hudson.plugins</groupId>
     <artifactId>analysis-pom</artifactId>
     <version>4.0.0</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>io.jenkins.plugins</groupId>
@@ -55,7 +55,7 @@
     <!-- Test Library Dependencies Versions -->
     <xmlunit.version>2.7.0</xmlunit.version>
     <jsoup.version>1.13.1</jsoup.version>
-    <json-smart.version>2.3</json-smart.version>
+    <json-smart.version>2.4.5</json-smart.version>
     <git-client.version>3.2.1</git-client.version>
     <jmh.version>1.25</jmh.version>
 
