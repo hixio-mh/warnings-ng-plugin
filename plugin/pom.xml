@@ -5,7 +5,7 @@
     <groupId>org.jvnet.hudson.plugins</groupId>
     <artifactId>analysis-pom</artifactId>
     <version>4.0.0</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>io.jenkins.plugins</groupId>
@@ -50,7 +50,7 @@
     <json.version>20200518</json.version>
     <jackson2-api.version>2.11.1</jackson2-api.version>
 
-    <pmd.version>6.26.0</pmd.version>
+    <pmd.version>6.36.0</pmd.version>
 
     <!-- Test Library Dependencies Versions -->
     <xmlunit.version>2.7.0</xmlunit.version>
